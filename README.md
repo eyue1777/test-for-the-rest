@@ -45,19 +45,20 @@ Features include:
 - Calculating the average
 
 Additional (Bonus) features implemented:
-
+```
 ✅ Empty list validation
 ✅ Counting negative numbers
 ✅ Sorting the list without using `.sort()`
 ✅ Comparison with Dart collection methods
-
-
+```
+```
 Task 1 Sample Output:
 Numbers: [34, -7, 89, 12, -45, 67, 3, 100, -2, 55]
 Max: 100
 Min: -45
 Sum: 306
 Average: 30.6
+```
 ---
 
 ## ⚡Task 2 – Async Calculator App
@@ -71,12 +72,12 @@ Features include:
 - Error handling with `try-catch`
 
 Additional (Bonus) features implemented: 
-
+```
 ✅ Custom exception for invalid operations
 ✅ Calculation history
 ✅ Chained operations
 ✅ Parallel execution using `Future.wait()`
-
+```
 ---
 
 ## 🚀How to Run
